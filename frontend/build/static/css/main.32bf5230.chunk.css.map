@@ -1,0 +1,1 @@
+{"version":3,"sources":["styles.css"],"names":[],"mappings":"AAAA,4BAGE,eACF","file":"main.32bf5230.chunk.css","sourcesContent":[".btn,\n.jumbotron,\n.nav :hover {\n  border-radius: 0px;\n}\n\n/* body {\n  background: #343a40;\n} */\n\n"]}
